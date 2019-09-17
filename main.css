@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 60pt; 
+}
+p {
+    text-align: center;
+}
+nav {
+    border: 5px solid blue;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border-radius: 15px;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    display: inline-block;
+    padding: 10px;
+}
